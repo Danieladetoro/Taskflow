@@ -10,7 +10,7 @@ HOW TO RUN:
    http://localhost/phpmyadmin
 5. Import database.sql
 6. Open:
-   http://localhost/styled_php_sql_app
+   http://localhost/Taskflow
 
 FEATURES:
 - Modern interactive UI
